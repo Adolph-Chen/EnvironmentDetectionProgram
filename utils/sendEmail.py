@@ -8,7 +8,7 @@ class SendEmail:
     mail_user = "xxx@163.com"  # 用户名
     mail_pass = "xxxxxxxx"  # 授权密码，非登录密码
 
-    sender = 'adolphchen@163.com'
+    sender = 'xxx@163.com'
     ' # 发件人邮箱(最好写全, 不然会失败)'
     receivers = []  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
