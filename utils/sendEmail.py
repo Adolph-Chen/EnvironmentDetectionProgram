@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 class SendEmail:
     # 第三方 SMTP 服务
     mail_host = "smtp.163.com"  # SMTP服务器
-    mail_user = "adolphchen@163.com"  # 用户名
-    mail_pass = "QZBTLMUNWRIWSBTM"  # 授权密码，非登录密码
+    mail_user = "xxx@163.com"  # 用户名
+    mail_pass = "xxxxxxxx"  # 授权密码，非登录密码
 
     sender = 'adolphchen@163.com'
     ' # 发件人邮箱(最好写全, 不然会失败)'
